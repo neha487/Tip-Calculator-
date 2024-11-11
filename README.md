@@ -34,6 +34,7 @@ python tip_calculator.py
 4.) Follow the prompts to enter the total bill, tip percentage, and the number of people to split the bill.
 
 
+
 📄 Example Usage:
 
 1. You will be prompted to input the total bill amount.
@@ -45,6 +46,7 @@ The program will then calculate and display:
 * The total tip amount.
 * The total amount after adding the tip.
 * The amount each person needs to pay if you're splitting the bill.
+
 
 🧑‍💻 Code Example:
 ```bash
@@ -59,11 +61,12 @@ The program will then calculate and display:
 # Each person pays: 30
 ```
 
+
 💡 Features to Add (Coming Soon!):
 
-# Ability to round up the tip to nearest dollar.
-# Support for custom bill categories (e.g., food, drinks, tax).
-# Save calculation history for reference.
+1. Ability to round up the tip to nearest dollar.
+2. Support for custom bill categories (e.g., food, drinks, tax).
+3. Save calculation history for reference.
 
 
 🔧 Requirements:
